@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stm8s_it.h": "c",
+        "max7219.h": "c",
+        "serial.h": "c",
+        "lights.h": "c",
+        "milis.h": "c"
+    }
+}
